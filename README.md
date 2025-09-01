@@ -10,6 +10,8 @@ Yarn
 
 Infura (Sepolia RPC)
 
+wangi and ether v3
+
 MetaMask Wallet
 
 dotenv
